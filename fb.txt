@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First  branch, first file, modified in fb
+=======
+First  branch, first file, modified in fb when in fb
+>>>>>>> firstbranch
